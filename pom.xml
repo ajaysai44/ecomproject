@@ -25,6 +25,8 @@
 				<configuration> 
 					<url>http://http://3.134.252.80:8085/:8085/manager/text</url> 
 					<server>apache-tomcat</server> 
+					<username>admin</username>
+					<password>admin123</password>
 					<path>/myEcommercePath</path> 
 				</configuration> 
 			</plugin>
