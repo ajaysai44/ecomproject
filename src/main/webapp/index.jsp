@@ -12,8 +12,7 @@
 <td  valign="top" halign="centre">
 <h1> Welcome to our e-commerce site </h1><br>
 This site give you a real pleasure of shopping on the net
-<p>We bring you the latest varieties of commodities at the best reasonable prices. We promise to deliver the items at your door steps in minimum posible time interval</p>
-<p>All the goods are available</p>    
+<p>We bring you the latest varieties of commodities at the best reasonable prices. We promise to deliver the items at your door steps in minimum posible time interval</p>    
 <img src="images/onlycart.jpg"></td>
   </tr>
 </table>
